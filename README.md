@@ -1,5 +1,17 @@
 # 📰 News Fetcher by FRC All Music #2025
 
+## 🧾 License
+
+This software is proprietary and protected under copyright law.
+
+⚠️ This repository does not provide the source code of the application. It is used to host update metadata only.
+
+
+© 2025 FRC All Music – All rights reserved.
+
+Use is permitted for personal or licensed commercial purposes only. Redistribution or modification is prohibited without permission.
+
+
 **News Fetcher** is a lightweight, tray-based Windows utility that automatically downloads up to 10 configurable MP3 news bulletins every hour.
 
 Built for music programmers, radio producers, and anyone who wants fresh news audio delivered quietly and reliably.
